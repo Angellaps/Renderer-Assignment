@@ -1,0 +1,20 @@
+﻿  ModelLoading.cpp
+D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\Basic_OpenGL_CG_Project\Mesh.h(84,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\Basic_OpenGL_CG_Project\ModelLoading.cpp(183,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\Basic_OpenGL_CG_Project\ModelLoading.cpp(216,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\Basic_OpenGL_CG_Project\ModelLoading.cpp(217,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\Basic_OpenGL_CG_Project\ModelLoading.cpp(226,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\Basic_OpenGL_CG_Project\ModelLoading.cpp(227,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\Basic_OpenGL_CG_Project\ModelLoading.cpp(302,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\Basic_OpenGL_CG_Project\ModelLoading.cpp(303,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\Basic_OpenGL_CG_Project\ModelLoading.cpp(307,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\Basic_OpenGL_CG_Project\ModelLoading.cpp(308,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\Basic_OpenGL_CG_Project\ModelLoading.cpp(310,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\Basic_OpenGL_CG_Project\ModelLoading.cpp(311,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\Basic_OpenGL_CG_Project\ModelLoading.cpp(320,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  4 of 887 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Basic_OpenGL_CG_Project.vcxproj -> D:\SAE\8. Multiple model + lighting example\Multiple_model_loading\x64\Release\Basic_OpenGL_CG_Project.exe
